@@ -6,7 +6,7 @@ Rockbuster Stealth LLC is a fictional movie rental company that used to have sto
 ### DATA
 A relational database made up of 15 tables contatining data on film rentals, customers, actors, payments and more.
 Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary.
-Visualizations for this project can be found on Tableau [https://public.tableau.com/app/profile/kamini.manwal/viz/task3_10_16828025221120/RockbusterStealth?publish=yes](url)
+Visualizations for this project can be found on Tableau [here](https://public.tableau.com/app/profile/kamini.manwal/viz/task3_10_16828025221120/RockbusterStealth?publish=yes)
 ### TOOLS
 Language: PostgreSQL
 Software: pgAdmin, DbVisualizer, Tableau, Excel
